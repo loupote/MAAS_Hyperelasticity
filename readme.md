@@ -4,7 +4,7 @@
 
 Ce projet consiste à compléter le squelette d’un **solveur par éléments finis (EF) non linéaire**.
 
-Le matériau implémenté est **isotrope**, de type **Saint-Venant–Kirchhoff**, tel que décrit dans l’ouvrage de référence :
+Le matériau implémenté est **isotrope**, de type **Saint-Venant–Kirchhoff**, les détails des calculs figurent dans le chapitre 5 de l'ouvrage :
 
 > Bonet & Wood — *Non-Linear Continuum Mechanics for Finite Element Analysis*
 
