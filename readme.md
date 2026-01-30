@@ -1,5 +1,5 @@
 # Solveur EF non linéaire – Cylindre creux sous pression interne
-Cours de MAAS proposé par Héloïse DANDIN
+Cours de l'option MAAS proposé par Pr. Héloïse DANDIN
 
 ## Description du projet
 
